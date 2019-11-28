@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: ReiseNavet
-email:
+# email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+# twitter_username: username
+# github_username: username
 minimal_mistakes_skin: contrast
 search: true
 
@@ -64,28 +64,26 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.sintef.no/alle-ansatte/ansatt/?empid=542"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
+
+
+# Collections
+collections:
+  maas:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -105,7 +103,19 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+  # _maas
+  - scope:
+      path: ""
+      type: maas
+    values:
+      layout: single
+      read_time: true
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "maas"
 
 category_archive:
   type: liquid
