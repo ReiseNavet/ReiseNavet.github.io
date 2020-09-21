@@ -32,3 +32,5 @@ maas:
     children:
       - title: "Hva skal til for å realisere MaaS?"
         url: /maas/todo/
+      - title: "Dataformater og standarder"
+        url: /maas/todo/
