@@ -1,8 +1,10 @@
 ---
-title: "Emnet er ikke beskrevet ennå"
+title: "The topic has not been described yet"
 permalink: /maas/todo/
-excerpt: "Default side for emner som ikke er beskrevet ennå"
-last_modified_at: 2019-11-28T12:00:00 +01:00
+excerpt: "Default page for topics that has not yet been described"
+last_modified_at: 2020-01-14T15:00:00 +01:00
+redirect_from:
+  - /todo/
 ---
 
-Vi planlegger å legge til innhold for temaet du valgte innen kort tid.
+We are planning to add more information here soon.

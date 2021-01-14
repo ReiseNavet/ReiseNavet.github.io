@@ -1,6 +1,6 @@
 ---
-permalink: /om/
-title: "Om ReiseNavet"
+permalink: /about/
+title: "About ReiseNavet"
 ---
 
 ReiseNavet er et innovasjonsprosjekt i offentlig sektor under [Forskningsrådets](https://www.forskningsradet.no/) program [Transport 2025](https://www.forskningsradet.no/om-forskningsradet/programmer/transport/). Prosjektperioden er 01.06.2019 - 31.05.2022.

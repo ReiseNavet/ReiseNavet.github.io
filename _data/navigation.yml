@@ -1,19 +1,27 @@
 main:
-  - title: "Nyheter"
-    url: /nyheter/
-  - title: "MaaS"
+  - title: "News"
+    url: /news/
+  - title: "MaaS wiki"
     url: /maas/intro/
-  - title: "Om ReiseNavet"
-    url: /om/
+  - title: "Results"
+    url: /maas/todo/
+  - title: "About ReiseNavet"
+    url: /about/
     
     
 maas:
   - title: Mobility as a Service (MaaS)
     children:
-      - title: "Hva er MaaS?"
+      - title: "What is MaaS?"
         url: /maas/intro/
-      - title: "Aktører i MaaS"
-        url: /maas/todo/
+      - title: "Actors in MaaS"
+        url: /maas/actors/
+      - title: "Motivation for MaaS"
+        url: /maas/motivation/
+      - title: "Barriers for MaaS"
+        url: /maas/barriers/
+      - title: "Functionality in MaaS"
+        url: /maas/functionality/
   - title: Muligheter og utfordringer
     children:
       - title: "Fordeler for reisende"
@@ -22,13 +30,13 @@ maas:
         url: /maas/todo/
       - title: "Barrierer"
         url: /maas/todo/
-  - title: Forretningsmodeller
+  - title: Business aspects
     children:
       - title: "Gevinster og kostnader"
         url: /maas/todo/
       - title: "Merkevare og synlighet"
         url: /maas/todo/
-  - title: Teknologi
+  - title: Technology aspects
     children:
       - title: "Hva skal til for å realisere MaaS?"
         url: /maas/todo/
