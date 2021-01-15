@@ -1,7 +1,7 @@
 main:
   - title: "News"
     url: /news/
-  - title: "MaaS wiki"
+  - title: "MaaS Wiki"
     url: /maas/intro/
   - title: "Results"
     url: /maas/todo/
@@ -14,31 +14,28 @@ maas:
     children:
       - title: "What is MaaS?"
         url: /maas/intro/
-      - title: "Actors in MaaS"
+      - title: "Actors"
         url: /maas/actors/
-      - title: "Motivation for MaaS"
+      - title: "Motivation"
         url: /maas/motivation/
-      - title: "Barriers for MaaS"
+      - title: "Barriers"
         url: /maas/barriers/
-      - title: "Functionality in MaaS"
+      - title: "Functionality"
         url: /maas/functionality/
-  - title: Muligheter og utfordringer
+  - title: Business Aspects
     children:
-      - title: "Fordeler for reisende"
-        url: /maas/todo/
-      - title: "Nye muligheter"
-        url: /maas/todo/
-      - title: "Barrierer"
-        url: /maas/todo/
-  - title: Business aspects
+      - title: "Topics in Research"
+        url: /maas/researchtopics/
+      - title: "Barriers"
+        url: /maas/businessbarriers/
+  - title: MaaS Integration
     children:
-      - title: "Gevinster og kostnader"
-        url: /maas/todo/
-      - title: "Merkevare og synlighet"
-        url: /maas/todo/
-  - title: Technology aspects
-    children:
-      - title: "Hva skal til for å realisere MaaS?"
-        url: /maas/todo/
-      - title: "Dataformater og standarder"
-        url: /maas/todo/
+      - title: "Architecture"
+        url: /maas/architecture/
+      - title: "Data Integration"
+        url: /maas/dataintegration/
+      - title: "Data Formats and Standards"
+        url: /maas/dataformats/
+      - title: "Barriers"
+        url: /maas/integrationbarriers/
+    
