@@ -2,17 +2,9 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#5e616c"
   overlay_image: /assets/images/header.svg
-  caption:
 title: 'ReiseNavet'
-excerpt: 'A site for publishers and users of open data'
-intro: 
-  - excerpt: "ReiseNavet is an NFR research project..."
 tagline: 'Mobility as a Service'
-header:
-  overlay_image: /assets/images/header.svg
-  caption: 
 feature_row:
   - image_path: /assets/images/wiki.svg
     alt: "wiki image"

@@ -68,6 +68,9 @@ author:
 
 footer:
   links:
+    - label: "Icons made by Freepik from www.flaticon.com" 
+      url: "https://www.flaticon.com/authors/freepik"
+
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
