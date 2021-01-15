@@ -21,13 +21,6 @@ feature_row:
     url: "/maas"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-  - image_path: /assets/images/team.svg
-    alt: "about image"
-    title: "About ReiseNavet"
-    excerpt: "ReiseNavet is a Norwegian research project..."
-    url: "/about"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
   - image_path: /assets/images/results.svg
     alt: "results image"
     title: "Results"
@@ -35,6 +28,13 @@ feature_row:
     url: "/maas/todo"
     btn_class: "btn--primary"
     btn_label: "More info"
+  - image_path: /assets/images/team.svg
+    alt: "about image"
+    title: "About ReiseNavet"
+    excerpt: "ReiseNavet is a Norwegian research project..."
+    url: "/about"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
     
 ---
 
