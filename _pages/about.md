@@ -19,7 +19,7 @@ Services supporting the interaction between MaaS providers and transport operato
 
 ## Research activities and results
 
-### Systematic Mapping study (SMS) on MaaS
+### Systematic Mapping Study (SMS) on MaaS
 
 SINTEF has performed a SMS targeting the scientific literature on MaaS. The study has identified the MaaS topics of relevance and related publications, as well as the research strategies used and the contributions made. Based on these findings, research gaps are identified. 
 
