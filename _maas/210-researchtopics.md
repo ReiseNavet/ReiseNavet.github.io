@@ -16,4 +16,3 @@ In general, the following aspects are discussed:
 *	Cannibalism with respect to public transport. i.e., that other modes are used instead of public transport
 *	How the different roles should be organised, e.g., the data integrator role, and the responsibilities of the roles.
 *	The effects of MaaS on different part of the value network, e.g., that more customers for one actor also may imply more customers for others.
-
