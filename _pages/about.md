@@ -16,3 +16,65 @@ The main objective of ReiseNavet is to provide knowledge on how a nationwide and
 Date integration for "all modes" (public transport, city bikes, taxis, car sharing, car rental, etc. ) will be supported. By using the platform, MaaS providers can avoid demanding digital integration with transport operators and focus on the end user support (Apps for travel planning and assistance, mobility package designs, price models, ticketing, etc.). By sharing their data with the platform, transport operators can more easily be integrated in several MaaS-services. The platform will publish the data as open data that can be used as a basis for novel services.
 
 Services supporting the interaction between MaaS providers and transport operators will be addressed. Such services may simplify the establishment of MaaS. The role of the platform will be investigated, among others how a semantic model for MaaS can support the definition of mobility packages, as well as route planning and orchestration of door-to-door journey, and associated bookings.Project activities and results (links to wiki when relevant) 
+
+## Research activities and results
+
+### Systematic Mapping study (SMS) on MaaS
+
+SINTEF has performed a SMS targeting the scientific literature on MaaS. The study has identified the MaaS topics of relevance and related publications, as well as the research strategies used and the contributions made. Based on these findings, research gaps are identified. 
+
+The main identified topics related to MaaS are:
+*	User aspects - the users of MaaS, who they are, their relation to MaaS, their wishes and needs, and the effects of MaaS on these users.
+*	Societal aspects - how MaaS is affected by and affects aspects such as transport and traffic, environment, economy, policy, etc.
+*	MaaS functionality - functionality supporting the MaaS users and promoting desired user behaviour, as well as functionality facilitating good service quality, business models, and learning.
+*	MaaS integration - the integration of systems and data into the MaaS ecosystem.
+*	MaaS implementation – aspects such as the MaaS ecosystem with actors and systems, the implementation process, barriers, enablers, the role of regulation, etc.
+*	Business aspects - market and business modelsas well as contractual issues.
+*	Technology aspects – technology areas of relevance to the implementation of MaaS ecosystems.
+*	Privacy and security aspects - security and privacy issues related to MaaS and MaaS reliability.
+
+Status: A scientific publication will document the results of the study.
+
+### MaaS Wiki
+
+The Wiki provides an overview of aspects of relevance to MaaS and lessons learned based on literature studies and interviews with stakeholders in the MaaS ecosystem. The Wiki can be found [here](https://reisenavet.no/maas/intro/).
+
+### Semantic modelling
+
+SINTEF has defined the method to be used for the establishment of a semantic model for MaaS that builds on existing methods from the ontology engineering area. 
+Existing ontologies of relevance to MaaS are identified, among others the ontologies from the European SNAP project (building on Transmodel) and from DATEXII (on traffic information). These ontologies are used as a starting point for the MaaS model.
+The new semantic model for MaaS is defined. It contains:
+*	MaaS usage pattens (used as a basis for the concepts). 
+*	Concepts related to car sharing, micro mobility, on-demand transport, etc. harmonised with CEN TS 17413 (a Transmodel extension)
+Status: The results are used as input the work on the data integration tool and the MaaS ecosystem architecture. 
+
+Status: The Wiki is continuously updated.
+
+### Data integration 
+
+The integration of data on transport services will be done by means of common data formats, and the project also investigates how semantic tools can support the transformation of data to these formats:
+*	Relevant data formats are identified. In general, they build upon standards such as Transmodel, NeTEx, and SIRI. Partner Entur has defined new formats for micro mobility and on-demand transport; extended the NeTEx format to cover new data types of relevance to MaaS such as parking and charging, prices and products; and defined APIs for on-demand transport. Entur has also contributed to a new standard for data on micro mobility (CEN TS 17413 – an extension of Transmodel). 
+* A web-based tool for data integration is prototyped by a group of NTNU students (supervised by SINTEF). The tool supports the semantic mapping between different data formats. It uses the semantic model for MaaS (see above) to automatically generate semantic relations (mappings) between data elements and to provide advices on how the data elements in proprietary formats should be mapped to standardised formats. REF to github
+
+Status: The results mentioned above is input to new activities on data integration and to the work on the architecture. 
+
+### MaaS ecosystem architecture
+SINTEF defines a reference architecture for the MaaS ecosystem. The architecture is designed according to the [ARCADE methodology](http://arcade-framework.org/) and different diagrams provide relevant views upon the MaaS ecosystem.
+
+Motivation diagrams address the relevant stakeholder types (traveller, MaaS provider, transport operator, and integrator) and identify: 
+*	Their drivers for their participation in the MaaS ecosystem, i.e., what may make such a change towards MaaS attractive to them.
+*	An assessment of the current situation with respect to the drivers, i.e. barriers encountered.
+*	Goals to be met to overcome the barriers.
+*	Overall requirements to the MaaS solutions derived from the goals. 
+
+Use case diagrams define:
+*	The functionality needed by the stakeholders, taking the motivation models into account. 
+*	The use of the semantic model during the establishment and operation of MaaS.
+
+Other models will also be used to define
+*	The information content to be exchanged and the interfaces through which the information is exchanged. Existing standards and specifications will be re-used when this is appropriate.
+*	The processes related to MaaS establishment and operation. 
+*	Logical system components/services.
+
+Status: The first versions of the motivation diagrams are ready. Work on the use cases is ongoing.
+
