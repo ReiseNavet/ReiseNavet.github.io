@@ -54,7 +54,7 @@ Status: The Wiki is continuously updated.
 
 The integration of data on transport services will be done by means of common data formats, and the project also investigates how semantic tools can support the transformation of data to these formats:
 *	Relevant data formats are identified. In general, they build upon standards such as Transmodel, NeTEx, and SIRI. Partner Entur has defined new formats for micro mobility and on-demand transport; extended the NeTEx format to cover new data types of relevance to MaaS such as parking and charging, prices and products; and defined APIs for on-demand transport. Entur has also contributed to a new standard for data on micro mobility (CEN TS 17413 – an extension of Transmodel). 
-* A web-based tool for data integration is prototyped by a group of NTNU students (supervised by SINTEF). The tool supports the semantic mapping between different data formats. It uses the semantic model for MaaS (see above) to automatically generate semantic relations (mappings) between data elements and to provide advices on how the data elements in proprietary formats should be mapped to standardised formats.
+* A web-based tool for data integration is prototyped by a group of NTNU students (supervised by SINTEF). The tool supports the semantic mapping between different data formats. It uses the semantic model for MaaS (see above) to automatically generate semantic relations (mappings) between data elements and to provide advices on how the data elements in proprietary formats should be mapped to standardised formats. See [Github repository](https://github.com/Kundestyrt-ReiseNavet)
 
 Status: The results mentioned above is input to new activities on data integration and to the work on the architecture. 
 
