@@ -11,7 +11,7 @@ toc: true
 MaaS is in general a new concept, and the business models are still in development. There are challenges regarding the viability of the business models, and business-related aspects are one of the main topics addressed by scientific literature on MaaS.
 
 In general, the following aspects are discussed:
-*	The role of public vs private actors. MaaS may be market driven, public controlled, or a public-private collaboration.
+*	The role of public vs private actors. MaaS may be market driven, controlled by a public actor, or a public-private collaboration.
 *	Different types of MaaS-providers such as public and private actors, actors building MaaS around their own transport services, and more mode agnostic actors without their own services.
 *	Cannibalism with respect to public transport. i.e., that other modes are used instead of public transport
 *	How the different roles should be organised, e.g., the data integrator role, and the responsibilities of the roles.
