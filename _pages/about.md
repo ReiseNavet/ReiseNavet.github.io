@@ -41,11 +41,11 @@ The Wiki provides an overview of aspects of relevance to MaaS and lessons learne
 
 ### Semantic modelling
 
-SINTEF has defined the method to be used for the establishment of a semantic model for MaaS that builds on existing methods from the ontology engineering area. 
-Existing ontologies of relevance to MaaS are identified, among others the ontologies from the European SNAP project (building on Transmodel) and from DATEXII (on traffic information). These ontologies are used as a starting point for the MaaS model.
-The new semantic model for MaaS is defined. It contains:
-*	MaaS usage pattens (used as a basis for the concepts). 
+SINTEF has defined a methodology to be used for the establishment of a semantic model for MaaS. The methodology is intended to be agile and easy to apply, and builds on existing methodologies from the ontology engineering area, such as Methontology, NeOn, Upon and 101. 
+Existing ontologies of relevance to MaaS are identified, among others the ontologies from the European SNAP project (building on Transmodel) and from DATEXII (on traffic information). These ontologies are used as a starting point for the MaaS semantic model which contains:
+*	MaaS usage patterns (used as a basis for the concepts). 
 *	Concepts related to car sharing, micro mobility, on-demand transport, etc. harmonised with CEN TS 17413 (a Transmodel extension)
+*   Additional concepts that enables MaaS to be integrated with data from other domains in order to yield enhanced functionality (e.g., traffic management, smart cities)
 Status: The results are used as input the work on the data integration tool and the MaaS ecosystem architecture. 
 
 Status: The Wiki is continuously updated.
@@ -53,8 +53,8 @@ Status: The Wiki is continuously updated.
 ### Data integration 
 
 The integration of data on transport services will be done by means of common data formats, and the project also investigates how semantic tools can support the transformation of data to these formats:
-*	Relevant data formats are identified. In general, they build upon standards such as Transmodel, NeTEx, and SIRI. Partner Entur has defined new formats for micro mobility and on-demand transport; extended the NeTEx format to cover new data types of relevance to MaaS such as parking and charging, prices and products; and defined APIs for on-demand transport. Entur has also contributed to a new standard for data on micro mobility (CEN TS 17413 – an extension of Transmodel). 
-* A web-based tool for data integration is prototyped by a group of NTNU students (supervised by SINTEF). The tool supports the semantic mapping between different data formats. It uses the semantic model for MaaS (see above) to automatically generate semantic relations (mappings) between data elements and to provide advices on how the data elements in proprietary formats should be mapped to standardised formats. See [Github repository](https://github.com/Kundestyrt-ReiseNavet)
+*	Relevant data formats are identified. Several of them build upon standards such as Transmodel, NeTEx, and SIRI. Partner Entur has defined new formats for micro mobility and on-demand transport; extended the NeTEx format to cover new data types of relevance to MaaS such as parking and charging, prices and products; and defined APIs for on-demand transport. Entur has also contributed to a new standard for data on micro mobility (CEN TS 17413 – an extension of Transmodel). In addition, other formats are in use and are emerging within a MaaS setting, such as GTFS (including GTFS-Flex), GBFS, IXSI, and MDS. 
+* A web-based tool for data integration is prototyped by a group of NTNU students (supervised by SINTEF). The tool automatically generates different semantic relations (mappings) between data elements of different data formats. This tool aims to simplify and semi-automate the task of mapping data elements from one data format to another data format. The prototype data integration tool is available [here](http://dataintegrasjon.reisenavet.no/). 
 
 Status: The results mentioned above is input to new activities on data integration and to the work on the architecture. 
 
