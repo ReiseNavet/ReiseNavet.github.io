@@ -2,7 +2,7 @@
 title: "MaaS - Barriers and Requirements"
 permalink: /maas/barriers/
 excerpt: "Barriers for MaaS"
-last_modified_at: 2020-01-14T15:00:00 +01:00
+last_modified_at: 2022-01-10T15:00:00 +01:00
 redirect_from:
   - /barriers/
 toc: true
