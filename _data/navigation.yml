@@ -16,8 +16,6 @@ maas:
         url: /maas/intro/
       - title: "Actors"
         url: /maas/actors/
-      - title: "Motivation"
-        url: /maas/motivation/
       - title: "Barriers"
         url: /maas/barriers/
       - title: "Functionality"
