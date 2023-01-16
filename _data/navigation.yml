@@ -34,6 +34,4 @@ maas:
         url: /maas/dataintegration/
       - title: "Data Formats and Standards"
         url: /maas/dataformats/
-      - title: "Barriers"
-        url: /maas/integrationbarriers/
     
