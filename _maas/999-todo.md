@@ -9,6 +9,6 @@ redirect_from:
 
 The core results of the ReiseNavet project are listed below. 
 
-* [SINTEF Report describing architecture](https://github.com/ReiseNavet/ReiseNavet.github.io/blob/master/assets/SINTEF_Report_architecture_final.pdf)
+* [SINTEF Report describing architecture](https://github.com/ReiseNavet/ReiseNavet.github.io/raw/master/assets/SINTEF_Report_architecture_final.pdf)
 * [Transmodel Ontology and source code used for generating it from UML](https://github.com/ReiseNavet/transmodel-onto)
 * [Data Integration Tool](https://github.com/ReiseNavet/data-integration-tool)
