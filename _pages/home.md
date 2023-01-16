@@ -17,7 +17,7 @@ feature_row:
     alt: "results image"
     title: "Results"
     excerpt: "Results from the project"
-    url: "/maas/todo"
+    url: "/maas/results"
     btn_class: "btn--primary"
     btn_label: "More info"
   - image_path: /assets/images/team.svg
