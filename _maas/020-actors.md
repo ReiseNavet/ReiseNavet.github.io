@@ -2,13 +2,15 @@
 title: "MaaS - Actors"
 permalink: /maas/actors/
 excerpt: "Actors in MaaS"
-last_modified_at: 2022-01-05T11:00:00 +01:00
+last_modified_at: 2023-01-05T11:30:00 +01:00
 redirect_from:
   - /actors/
 toc: true
 ---
 
-The MaaS ecosystem and the provision of MaaS services involve several actors. So far, and the literature provides no common definitions of these stakeholders and   operates with different names and different stakeholder definitions. Here we define a set of generic roles that represent stakeholder archetypes with non-overlapping responsibilities that partly are aligned with ongoing work in ISO. The roles defined here are however more detailed to arrange for modularity and flexibility, as the roles and the responsibilities represented by the roles can be fulfilled by different actors in the real world. One real actor may have one or more roles, and there may be several actors with the same role. Some examples :
+The MaaS ecosystem and the provision of MaaS services involve several actors. So far, and the literature provides no common definitions of these stakeholders and   operates with different names and different stakeholder definitions. Here we define a set of generic roles that represent stakeholder archetypes with non-overlapping responsibilities. The roles are partly  aligned with ongoing work in ISO, but are more detailed to arrange for modularity and flexibility. Thus the roles and responsibilities can be fulfilled in different ways by different actors in the real world. 
+
+One real actor may have one or more roles, and there may be several actors with the same role. Some examples :
 - An actor with the MaaS Provider role may also have the Transport Service Provider role. This is for example the case if a public transport provider is a MaaS provider. 
 - Several actors may be MaaS Providers. They may cover different modes, areas, and regions, but the modes and geographical areas they cover may also partly or fully overlap.
 - An actor with the MaaS Provider role may also be a MaaS Data integrator. This is the case if the actor collects and integrates data from one or more Transport Service Providers. 
