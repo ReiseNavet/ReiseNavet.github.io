@@ -10,7 +10,7 @@ feature_row:
     alt: "wiki image"
     title: "MaaS wiki"
     excerpt: "Wiki with information about MaaS topics."
-    url: "/maas"
+    url: "/maas/intro/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path: /assets/images/results.svg

@@ -7,4 +7,8 @@ redirect_from:
   - /todo/
 ---
 
-We are planning to add more information here soon.
+The core results of the ReiseNavet project are listed below. 
+
+* Architecture:
+* Transmodel Ontology: 
+* Data Integration Tool: 
