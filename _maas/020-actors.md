@@ -2,7 +2,7 @@
 title: "MaaS - Actors"
 permalink: /maas/actors/
 excerpt: "Actors in MaaS"
-last_modified_at: 2023-01-05T11:30:00 +01:00
+last_modified_at: 2023-01-05T11:20:00 +01:00
 redirect_from:
   - /actors/
 toc: true
