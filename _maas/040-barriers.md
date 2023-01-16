@@ -9,9 +9,9 @@ toc: true
 ---
 
 ## Barriers and requirements to MaaS data sharing
-During a literature study the following codes relating to barriers and requirements to MaaS data sharing were assigned to the research articles included in the corpus. 
+During a literature study the following codes relating to barriers and requirements to MaaS data sharing were assigned to the research articles included in the corpus. In addition, several requirements related to MaaS were identified in the ReiseNavet project. These requirements are prefixed with 'RN:' in the listing below. 
 
-**Annex B1: Codes assigned to Data Sharing Barriers**
+**Codes assigned to Data Sharing Barriers**
 
 - Economic barriers
   - Cost of compliance with rules and regulations
@@ -46,7 +46,7 @@ During a literature study the following codes relating to barriers and requireme
   - Lack of metadata and standards
   - Technical solutions for data sharing not available
 
-**Annex B2: Codes assigned to Data Sharing Requirements**
+**Codes assigned to Data Sharing Requirements**
 
 - Legal and ethical requirements
   - Consent management
@@ -66,7 +66,7 @@ During a literature study the following codes relating to barriers and requireme
   - Scalability of user and data management
   - Support interoperability and data integration
 
-**Annex B3: Codes assigned to MaaS Barriers**
+**Codes assigned to MaaS Barriers**
 
 - Cooperation and interaction barriers
   - Complex contractual arrangements
@@ -138,7 +138,7 @@ During a literature study the following codes relating to barriers and requireme
   - Reliability of MaaS
   - Uncertainty about which type of services to be included in MaaS
 
-**Annex B4: Codes assigned to MaaS Requirements**
+**Codes assigned to MaaS Requirements**
 
 - Cooperation and interaction requirements
   - Coordination of different transport modes
