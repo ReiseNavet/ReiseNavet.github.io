@@ -2,7 +2,7 @@
 title: "Business Aspects - Topics in Research"
 permalink: /maas/researchtopics/
 excerpt: "Topics in MaaS business aspects resarch"
-last_modified_at: 2020-01-15T11:00:00 +01:00
+last_modified_at: 2022-01-16T11:00:00 +01:00
 redirect_from:
   - /researchtopics/
 toc: true
@@ -12,7 +12,7 @@ MaaS is in general a new concept, and the business models are still in developme
 
 In general, the following aspects are discussed:
 *	The role of public vs private actors. MaaS may be market driven, controlled by a public actor, or a public-private collaboration.
-*	Different types of MaaS-providers such as public and private actors, actors building MaaS around their own transport services, and more mode agnostic actors without their own services.
+*	Different types of MaaS Providers such as public and private actors, actors building MaaS around their own transport services, and more mode agnostic actors without their own services.
 *	Cannibalism with respect to public transport. i.e., that other modes are used instead of public transport
 *	How the different roles should be organised, e.g., the data integrator role, and the responsibilities of the roles.
 *	The effects of MaaS on different part of the value network, e.g., that more customers for one actor also may imply more customers for others.
