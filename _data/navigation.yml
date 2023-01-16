@@ -16,7 +16,7 @@ maas:
         url: /maas/intro/
       - title: "Actors"
         url: /maas/actors/
-      - title: "Barriers"
+      - title: "Barriers and Requirements"
         url: /maas/barriers/
       - title: "Functionality"
         url: /maas/functionality/
